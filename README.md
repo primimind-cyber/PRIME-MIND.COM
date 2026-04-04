@@ -1,2 +1,2 @@
-# PRIME-MIND.COM
+# PRIME-MIND
 Welcome to my site!
